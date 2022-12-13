@@ -7,3 +7,5 @@ How to locally run the project:
 3. open localhost:8080 in a browser
 
 If you aim to simply test the code, the live demo is available at https://63616e.github.io/CS4460-Final-Project/
+
+Members: John Hakan Can Gunerli, Khadijat Temitope (KD) Amoo
